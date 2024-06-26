@@ -39,8 +39,8 @@ def render_text(text, position, color, font_size=30):
 def guess_pokemon(value:str,guess:str,mensaje:str)->None:
     display_pokemon(value)
     render_text("Adivina el Pokémon:", (width // 2 - 150, height // 2 + 160), TEXT)
-    render_text(guess, (width // 2 - 100, height // 2 + 200), TEXT)
-    render_text(mensaje, (width // 2 - 100, height // 2 + 240), TEXT)
+    render_text(guess, (width // 2 - 150, height // 2 + 240), TEXT)
+    render_text(mensaje, (width // 2 - 150, height // 2 + 240), TEXT)
 
 bandera = True
 pokemon_actual = random.choice(lista_pokemons)
@@ -69,18 +69,21 @@ while bandera:
             else: 
                 input_bool = False
         if evento.type == pygame.KEYDOWN:
-            if evento.key == pygame.K_BACKSPACE:
-                user_input = user_input[:-1]
-            else:
-                user_input += evento.unicode
-                # if guess.lower() == pokemon_actual["nombre"].lower():
-                #     mensaje = "Correct!"
-                # else:
-                #     mensaje = "¡Incorrecto! El Pokémon era " + pokemon_actual["nombre"]
-                #Actualiza pokemon_actual con un nuevo pokemon aleatorio
-                # pokemon_actual = random.choice(lista_pokemons)
-                # guess = ""
-
+            if input_bool:
+                if evento.key == pygame.K_BACKSPACE:
+                    user_input = user_input[:-1]
+                elif evento.key == pygame.K_RETURN:
+                    if user_input.lower() == pokemon_actual["nombre"].lower():
+                        mensaje = "¡Correcto!"
+                    else:
+                        mensaje = "¡Incorrecto! El Pokemon era " + pokemon_actual["nombre"]
+                    # Actualiza pokemon_actual con un nuevo pokemon aleatorio
+                    pokemon_actual = random.choice(lista_pokemons)
+                    user_input = ""
+                else:
+                    user_input += evento.unicode
+                
+                
     # contador = fuente.render("Time Taken: "+str(TIEMPO),0,(TEXT))
     # ventana.blit(contador,(100,100))
     
