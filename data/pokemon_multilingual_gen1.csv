@@ -1,118 +1,93 @@
-Generación,Nombre,Nombre Inglés,Nombre Francés,Nombre Italiano,Nombre Alemán,Imagen
-1,Bulbasaur,Bulbasaur,Bulbizarre,Bulbasaur,Bisasam,assets\images\bulbasaur.png
-1,Ivysaur,Ivysaur,Herbizarre,Ivysaur,Bisaknosp,assets\images\Yvysaur.png
-1,Venusaur,Venusaur,Florizarre,Venusaur,Bisaflor,assets\images\venusaur.png
-1,Charmander,Charmander,Salamèche,Charmander,Glumanda,assets\images\Charmander.png
-1,Charmeleon,Charmeleon,Reptincel,Charmeleon,Glutexo,assets\images\charmeleon.png
-1,Charizard,Charizard,Dracaufeu,Charizard,Glurak,assets\images\Charizard.png
-1,Squirtle,Squirtle,Carapuce,Squirtle,Schiggy,assets\images\Squirtle.png
-1,Wartortle,Wartortle,Carabaffe,Wartortle,Schillok,assets\images\Wartortle.png
-1,Blastoise,Blastoise,Tortank,Blastoise,Turtok,assets\images\Blastoise.png
-1,Caterpie,Caterpie,Chenipan,Caterpie,Raupy,assets\images\Caterpie.png
-1,Metapod,Metapod,Chrysacier,Metapod,Safcon,assets\images\Metapod.png
-1,Butterfree,Butterfree,Papilusion,Butterfree,Smettbo,assets\images\Butterfree.png
-1,Weedle,Weedle,Aspicot,Weedle,Hornliu,assets\images\Weedle.png
-1,Kakuna,Kakuna,Coconfort,Kakuna,Kokuna,assets\images\kakuna.png
-1,Beedrill,Beedrill,Dardargnan,Beedrill,Bibor,assets\images\Beedrill.png
-2,Chikorita,Chikorita,Germignon,Chikorita,Endivie,assets\images\Chikorita.png
-2,Bayleef,Bayleef,Macronium,Bayleef,Lorblatt,assets\images\Bayleef.png
-2,Meganium,Meganium,Méganium,Meganium,Meganie,assets\images\Meganium.png
-2,Cyndaquil,Cyndaquil,Héricendre,Cyndaquil,Feurigel,assets\images\Cyndaquil.png
-2,Quilava,Quilava,Feurisson,Quilava,Igelavar,assets\images\Quilava.png
-2,Typhlosion,Typhlosion,Typhlosion,Typhlosion,Tornupto,assets\images\Typhlosion.png
-2,Totodile,Totodile,Kaiminus,Totodile,Karnimani,assets\images\Totodile.png
-2,Croconaw,Croconaw,Crocrodil,Croconaw,Tyracroc,assets\images\Croconaw.png
-2,Feraligatr,Feraligatr,Aligatueur,Feraligatr,Impergator,assets\images\Feraligatr.png
-2,Sentret,Sentret,Fouinette,Sentret,Wiesor,assets\images\Sentret.png
-2,Furret,Furret,Fouinar,Furret,Wiesenior,assets\images\Furret.png
-2,Hoothoot,Hoothoot,Hoothoot,Hoothoot,Hoothoot,assets\images\Hoothoot.png
-2,Noctowl,Noctowl,Noarfang,Noctowl,Noctuh,assets\images\Noctowl.png
-2,Ledyba,Ledyba,Coxy,Ledyba,Ledyba,assets\images\Ledyba.png
-2,Ledian,Ledian,Coxyclaque,Ledian,Ledian,assets\images\Ledian.png
-2,Spinarak,Spinarak,Mimigal,Spinarak,Webarak,assets\images\Spinarak.png
-3,Treecko,Treecko,Arcko,Treecko,Geckarbor,assets\images\Treecko.png
-3,Grovyle,Grovyle,Massko,Grovyle,Reptain,assets\images\Grovyle.png
-3,Sceptile,Sceptile,Jungko,Sceptile,Gewaldro,assets\images\Sceptile.png
-3,Torchic,Torchic,Poussifeu,Torchic,Flemmli,assets\images\Torchic.png
-3,Combusken,Combusken,Galifeu,Combusken,Jungglut,assets\images\Combusken.png
-3,Blaziken,Blaziken,Braségali,Blaziken,Lohgock,assets\images\Blaziken.png
-3,Mudkip,Mudkip,Gobou,Mudkip,Hydropi,assets\images\Mudkip.png
-3,Marshtomp,Marshtomp,Flobio,Marshtomp,Moorabbel,assets\images\Marshtomp.png
-3,Swampert,Swampert,Laggron,Swampert,Sumpex,assets\images\Swampert.png
-3,Poochyena,Poochyena,Medhyèna,Poochyena,Fiffyen,assets\images\Poochyena.png
-3,Mightyena,Mightyena,Grahyèna,Mightyena,Magnayen,assets\images\Mightyena.png
-3,Zigzagoon,Zigzagoon,Zigzaton,Zigzagoon,Zigzachs,assets\images\Zigzagoon.png
-3,Linoone,Linoone,Linéon,Linoone,Geradaks,assets\images\Linoone.png
-3,Wurmple,Wurmple,Chenipotte,Wurmple,Waumpel,assets\images\Wurmple.png
-3,Silcoon,Silcoon,Armulys,Silcoon,Schaloko,assets\images\Silcoon.png
-4,Turtwig,Turtwig,Tortipouss,Turtwig,Chelast,assets\images\Turtwig.png
-4,Grotle,Grotle,Boskara,Grotle,Chelcarain,assets\images\Grotle.png
-4,Torterra,Torterra,Torterra,Torterra,Chelterrar,assets\images\Torterra.png
-4,Chimchar,Chimchar,Ouisticram,Chimchar,Panflam,assets\images\Chimchar.png
-4,Monferno,Monferno,Chimpenfeu,Monferno,Panpyro,assets\images\Monferno.png
-4,Infernape,Infernape,Simiabraz,Infernape,Panferno,assets\images\Infernape.png
-4,Piplup,Piplup,Tiplouf,Piplup,Plinfa,assets\images\Piplup.png
-4,Prinplup,Prinplup,Prinplouf,Prinplup,Pliprin,assets\images\Prinplup.png
-4,Empoleon,Empoleon,Pingoléon,Empoleon,Impoleon,assets\images\Empoleon.png
-4,Starly,Starly,Étourmi,Starly,Staralili,assets\images\Starly.png
-4,Staravia,Staravia,Étourvol,Staravia,Staravia,assets\images\Staravia.png
-4,Staraptor,Staraptor,Étouraptor,Staraptor,Staraptor,assets\images\Staraptor.png
-4,Bidoof,Bidoof,Keunotor,Bidoof,Bidiza,assets\images\Bidoof.png
-4,Bibarel,Bibarel,Castorno,Bibarel,Bidifas,assets\images\Bibarel.png
-4,Kricketot,Kricketot,Crikzik,Kricketot,Zirpurze,assets\images\Kricketot.png
-4,Kricketune,Kricketune,Mélokrik,Kricketune,Zirpeise,assets\images\Kricketune.png
-5,Victini,Victini,Victini,Victini,Victini,assets\images\Victini.png
-5,Snivy,Snivy,Vipélierre,Snivy,Serpifeu,assets\images\Snivy.png
-5,Servine,Servine,Lianaja,Servine,Efoserp,assets\images\Servine.png
-5,Serperior,Serperior,Majaspic,Serperior,Serpiroyal,assets\images\Serperior.png
-5,Tepig,Tepig,Gruikui,Tepig,Ferkokel,assets\images\Tepig.png
-5,Pignite,Pignite,Grotichon,Pignite,Ferkokel,assets\images\Pignite.png
-5,Emboar,Emboar,Roitiflam,Emboar,Flambirex,assets\images\Emboar.png
-5,Oshawott,Oshawott,Moustillon,Oshawott,Ottaro,assets\images\Oshawott.png
-5,Dewott,Dewott,Mateloutre,Dewott,Zwottronin,assets\images\Dewott.png
-5,Samurott,Samurott,Clamiral,Samurott,Admurai,assets\images\Samurott.png
-5,Patrat,Patrat,Ratentif,Patrat,Nagelotz,assets\images\Patrat.png
-5,Watchog,Watchog,Miradar,Watchog,Kukmarda,assets\images\Watchog.png
-5,Lillipup,Lillipup,Ponchiot,Lillipup,Yorkleff,assets\images\Lillipup.png
-5,Herdier,Herdier,Ponchien,Herdier,Terribark,assets\images\Herdier.png
-5,Stoutland,Stoutland,Mastouffe,Stoutland,Bissbark,assets\images\Stoutland.png
-6,Chespin,Chespin,Marisson,Chespin,Igamaro,assets\images\Chespin.png
-6,Quilladin,Quilladin,Boguérisse,Quilladin,Igastarnish,assets\images\Quilladin.png
-6,Chesnaught,Chesnaught,Blindépique,Chesnaught,Brigaron,assets\images\Chesnaught.png
-6,Fennekin,Fennekin,Feunnec,Fennekin,Fynx,assets\images\Fennekin.png
-6,Braixen,Braixen,Roussil,Braixen,Rutena,assets\images\Braixen.png
-6,Delphox,Delphox,Goupelin,Delphox,Fennexis,assets\images\Delphox.png
-6,Froakie,Froakie,Grenousse,Froakie,Froxy,assets\images\Froakie.png
-6,Frogadier,Frogadier,Croâporal,Frogadier,Amphizel,assets\images\Frogadier.png
-6,Greninja,Greninja,Amphinobi,Greninja,Quajutsu,assets\images\Greninja.png.png
-6,Bunnelby,Bunnelby,Sapereau,Bunnelby,Scoppel,assets\images\Bunnelby.png
-7,Rowlet,Rowlet,Brindibou,Rowlet,Bauz,assets\images\Rowlet.png
-7,Dartrix,Dartrix,Efflèche,Dartrix,Arboretoss,assets\images\Dartrix.png
-7,Decidueye,Decidueye,Archéduc,Decidueye,Silvarro,asset\images\Decidueye.png
-7,Litten,Litten,Flamiaou,Litten,Flamiau,assets\images\Litten.png
-7,Torracat,Torracat,Matoufeu,Torracat,Miezunder,assets\images\Torracat.png
-7,Incineroar,Incineroar,Félinferno,Incineroar,Fuegro,assets\images\Incineroar.png
-7,Popplio,Popplio,Otaquin,Popplio,Robball,assets\images\Popplio.png
-7,Brionne,Brionne,Otareine,Brionne,Marikeck,assets\images\Brionne.png
-7,Primarina,Primarina,Oratoria,Primarina,Primarene,assets\images\Primarina.png
-7,Pikipek,Pikipek,Picassaut,Pikipek,Pepeck,assets\images\Pikipek.png
-8,Grookey,Grookey,Ouistempo,Grookey,Chimpep,assets\images\Grookey.png
-8,Thwackey,Thwackey,Badabouin,Thwackey,Chimstix,assets\images\Thwackey.png
-8,Rillaboom,Rillaboom,Gorythmic,Rillaboom,Gortrom,assets\images\Rillaboom.png
-8,Scorbunny,Scorbunny,Flambino,Scorbunny,Hoppel,assets\images\Scorbunny.png
-8,Raboot,Raboot,Lapyro,Raboot,Kickerlo,assets\images\Raboot.png
-8,Cinderace,Cinderace,Pyrobut,Cinderace,Liberlo,assets\images\Cinderace.png
-8,Sobble,Sobble,Larméléon,Sobble,Memmion,assets\images\Sobble.png
-8,Drizzile,Drizzile,Arrozard,Drizzile,Phlegleon,assets\images\Drizzile.png
-8,Inteleon,Inteleon,Lézargus,Inteleon,Intelleon,assets\images\Inteleon.png
-8,Skwovet,Skwovet,Rongourmand,Skwovet,Raffel,assets\images\Skwovet.png
-9,Sprigatito,Sprigatito,Poussacha,Sprigatito,Felori,assets\images\Sprigatito.png
-9,Floragato,Floragato,Matourgeon,Floragato,Feliospa,assets\images\Floragato.png
-9,Meowscarada,Meowscarada,Miascarade,Meowscarada,Maskagato,assets\images\Meowscarada.png
-9,Fuecoco,Fuecoco,Chochodile,Fuecoco,Krokel,assets\images\Fuecoco.png
-9,Crocalor,Crocalor,Crocogril,Crocalor,Lokroko,assets\images\Crocalor.png
-9,Skeledirge,Skeledirge,Flâmigator,Skeledirge,Skelokrok,assets\images\Skeledirge.png
-9,Quaxly,Quaxly,Coiffeton,Quaxly,Kwaks,assets\images\Quaxly.png
-9,Quaxwell,Quaxwell,Canarbello,Quaxwell,Fuentente,assets\images\Quaxwell.png
-9,Quaquaval,Quaquaval,Palmaval,Quaquaval,Bailonda,assets\images\Quaquaval.png
-9,Lechonk,Lechonk,Gourmelet,Lechonk,Ferkuli,assets\images\Lechonk.png
+Generación,Nombre,Nombre Inglés,Nombre Francés,Nombre Italiano,Nombre Alemán,Imagen,Imagen Sombreada,Imagen Pixeleada
+1,Venusaur,Venusaur,Florizarre,Venusaur,Bisaflor,assets\pokemones\venusaur.png,assets\pokemones sombreados\Charmander_sombreado.png,assets\pokemones pixelados\venusaur_pixeleado.png
+1,Charmander,Charmander,Salamèche,Charmander,Glumanda,assets\pokemones\Charmander.png,assets\pokemones sombreados\Charmander_sombreado.png,assets\pokemones pixelados\Charmander_pixeleado.png
+1,Charizard,Charizard,Dracaufeu,Charizard,Glurak,assets\pokemones\Charizard.png,assets\pokemones sombreados\Charizard_sombreado.png,assets\pokemones pixelados\Charizard_pixeleado.png
+1,Squirtle,Squirtle,Carapuce,Squirtle,Schiggy,assets\pokemones\Squirtle.png,assets\pokemones sombreados\Squirtle_sombreado.png,assets\pokemones pixelados\Squirtle_pixeleado.png
+1,Wartortle,Wartortle,Carabaffe,Wartortle,Schillok,assets\pokemones\Wartortle.png,assets\pokemones sombreados\Blastoise_sombreado.png,assets\pokemones pixelados\Wartortle_pixeleado.png
+1,Blastoise,Blastoise,Tortank,Blastoise,Turtok,assets\pokemones\Blastoise.png,assets\pokemones sombreados\Bidoof_sombreado.jpg,assets\pokemones pixelados\Blastoise_pixeleado.png
+1,Caterpie,Caterpie,Chenipan,Caterpie,Raupy,assets\pokemones\Caterpie.png,assets\pokemones sombreados\Caterpie_sombreado.png,assets\pokemones pixelados\Caterpie_pixeleado.png
+1,Metapod,Metapod,Chrysacier,Metapod,Safcon,assets\pokemones\Metapod.png,assets\pokemones sombreados\Metapod_sombreado.png,assets\pokemones pixelados\Metapod_pixeleado.png
+1,Butterfree,Butterfree,Papilusion,Butterfree,Smettbo,assets\pokemones\Butterfree.png,assets\pokemones sombreados\Butterfree_sombreado.png,assets\pokemones pixelados\Butterfree_pixeleado.png
+1,Beedrill,Beedrill,Dardargnan,Beedrill,Bibor,assets\pokemones\Beedrill.png,assets\pokemones sombreados\Beedrill_sombreado.png,assets\pokemones pixelados\Beedrill_pixeleado.png
+2,Chikorita,Chikorita,Germignon,Chikorita,Endivie,assets\pokemones\Chikorita.png,assets\pokemones sombreados\Chikorita_sombreado.png,assets\pokemones pixelados\Chikorita_pixeleado.png
+2,Bayleef,Bayleef,Macronium,Bayleef,Lorblatt,assets\pokemones\Bayleef.png,assets\pokemones sombreados\Bayleef_sombreado.png,assets\pokemones pixelados\Bayleef_pixeleado.png
+2,Meganium,Meganium,Méganium,Meganium,Meganie,assets\pokemones\Meganium.png,assets\pokemones sombreados\Meganium_sombreado.png,assets\pokemones pixelados\Meganium_pixeleado.png
+2,Cyndaquil,Cyndaquil,Héricendre,Cyndaquil,Feurigel,assets\pokemones\Cyndaquil.png,assets\pokemones sombreados\Cyndaquil_sombreado.png,assets\pokemones pixelados\Cyndaquil_pixeleado.png
+2,Quilava,Quilava,Feurisson,Quilava,Igelavar,assets\pokemones\Quilava.png,assets\pokemones sombreados\Quilava_sombreado.png,assets\pokemones pixelados\Quilava_pixeleado.png
+2,Typhlosion,Typhlosion,Typhlosion,Typhlosion,Tornupto,assets\pokemones\Typhlosion.png,assets\pokemones sombreados\Typhlosion_sombreado.png,assets\pokemones pixelados\Typhlosion_pixeleado.png
+2,Totodile,Totodile,Kaiminus,Totodile,Karnimani,assets\pokemones\Totodile.png,assets\pokemones sombreados\Totodile_sombreado.png,assets\pokemones pixelados\Totodile_pixeleado.png
+2,Croconaw,Croconaw,Crocrodil,Croconaw,Tyracroc,assets\pokemones\Croconaw.png,assets\pokemones sombreados\Croconaw_sombreado.png,assets\pokemones pixelados\Croconaw_pixeleado.png
+2,Feraligatr,Feraligatr,Aligatueur,Feraligatr,Impergator,assets\pokemones\Feraligatr.png,assets\pokemones sombreados\Feraligatr_sombreado.png,assets\pokemones pixelados\Feraligatr_pixeleado.png
+2,Sentret,Sentret,Fouinette,Sentret,Wiesor,assets\pokemones\Sentret.png,assets\pokemones sombreados\Sentret_sombreado.png,assets\pokemones pixelados\Sentret_pixeleado.png
+2,Furret,Furret,Fouinar,Furret,Wiesenior,assets\pokemones\Furret.png,assets\pokemones sombreados\Furret_sombreado.png,assets\pokemones pixelados\Furret_pixeleado.png
+3,Treecko,Treecko,Arcko,Treecko,Geckarbor,assets\pokemones\Treecko.png,assets\pokemones sombreados\Treecko_sombreado.png,assets\pokemones pixelados\Treecko_pixeleado.png
+3,Grovyle,Grovyle,Massko,Grovyle,Reptain,assets\pokemones\Grovyle.png,assets\pokemones sombreados\Grovyle_sombreado.png,assets\pokemones pixelados\Grovyle_pixeleado.png
+3,Sceptile,Sceptile,Jungko,Sceptile,Gewaldro,assets\pokemones\Sceptile.png,assets\pokemones sombreados\Sceptile_sombreado.png,assets\pokemones pixelados\Sceptile_pixeleado.png
+3,Torchic,Torchic,Poussifeu,Torchic,Flemmli,assets\pokemones\Torchic.png,assets\pokemones sombreados\Combusken_sombreado.png,assets\pokemones pixelados\Torchic_pixeleado.png
+3,Combusken,Combusken,Galifeu,Combusken,Jungglut,assets\pokemones\Combusken.png,assets\pokemones sombreados\Combusken_sombreado.png,assets\pokemones pixelados\Combusken_pixeleado.png
+3,Blaziken,Blaziken,Braségali,Blaziken,Lohgock,assets\pokemones\Blaziken.png,assets\pokemones sombreados\Blaziken_sombreado.png,assets\pokemones pixelados\Blaziken_pixeleado.png
+3,Mudkip,Mudkip,Gobou,Mudkip,Hydropi,assets\pokemones\Mudkip.png,assets\pokemones sombreados\Mudkip_sombreado.png,assets\pokemones pixelados\Mudkip_pixeleado.png
+3,Marshtomp,Marshtomp,Flobio,Marshtomp,Moorabbel,assets\pokemones\Marshtomp.png,assets\pokemones sombreados\Marshtomp_sombreado.png,assets\pokemones pixelados\Marshtop_pixeleado.png
+3,Swampert,Swampert,Laggron,Swampert,Sumpex,assets\pokemones\Swampert.png,assets\pokemones sombreados\Swampert_sombreado.png,assets\pokemones pixelados\Swanpert_pixeleado.png
+3,Poochyena,Poochyena,Medhyèna,Poochyena,Fiffyen,assets\pokemones\Poochyena.png,assets\pokemones sombreados\Poochyena_sombreado.png,assets\pokemones pixelados\Poochyena_pixeleado.png
+4,Turtwig,Turtwig,Tortipouss,Turtwig,Chelast,assets\pokemones\Turtwig.png,assets\pokemones sombreados\Turtwig_sombreado.png,assets\pokemones pixelados\Turtwig_pixeleado.png
+4,Grotle,Grotle,Boskara,Grotle,Chelcarain,assets\pokemones\Grotle.png,assets\pokemones sombreados\Grotle_sombreado.png,assets\pokemones pixelados\Grotle_pixeleado.png
+4,Torterra,Torterra,Torterra,Torterra,Chelterrar,assets\pokemones\Torterra.png,assets\pokemones sombreados\Torterra_sombreado.png,assets\pokemones pixelados\Torterra_pixeleado.png
+4,Chimchar,Chimchar,Ouisticram,Chimchar,Panflam,assets\pokemones\Chimchar.png,assets\pokemones sombreados\Chimchar_sombreado.png,assets\pokemones pixelados\Chimchar_pixeleado.png
+4,Monferno,Monferno,Chimpenfeu,Monferno,Panpyro,assets\pokemones\Monferno.png,assets\pokemones sombreados\Monferno_sombreado.png,assets\pokemones pixelados\Monferno_pixeleado.png
+4,Infernape,Infernape,Simiabraz,Infernape,Panferno,assets\pokemones\Infernape.png,assets\pokemones sombreados\Infernape_sombreado.png,assets\pokemones pixelados\Infernape_pixeleado.png
+4,Piplup,Piplup,Tiplouf,Piplup,Plinfa,assets\pokemones\Piplup.png,assets\pokemones sombreados\Piplup_sombreado.png,assets\pokemones pixelados\Piplup_pixeleado.png
+4,Prinplup,Prinplup,Prinplouf,Prinplup,Pliprin,assets\pokemones\Prinplup.png,assets\pokemones sombreados\Prinplup_sombreado.png,assets\pokemones pixelados\Prinplup_pixeleado.png
+4,Empoleon,Empoleon,Pingoléon,Empoleon,Impoleon,assets\pokemones\Empoleon.png,assets\pokemones sombreados\Empoleon_sombreado.png,assets\pokemones pixelados\Empoleon_pixeleado.png
+4,Starly,Starly,Étourmi,Starly,Staralili,assets\pokemones\Starly.png,assets\pokemones sombreados\Starly_sombreado.png,assets\pokemones pixelados\Starly_pixeleado.png
+4,Staravia,Staravia,Étourvol,Staravia,Staravia,assets\pokemones\Staravia.png,assets\pokemones sombreados\Staravia_sombreado.png,assets\pokemones pixelados\Staravia_pixeleado.png
+5,Victini,Victini,Victini,Victini,Victini,assets\pokemones\Victini.png,assets\pokemones sombreados\Victini_sombreado.png,assets\pokemones pixelados\Victini_pixeleado.png
+5,Snivy,Snivy,Vipélierre,Snivy,Serpifeu,assets\pokemones\Snivy.png,assets\pokemones sombreados\Snivy_sombreado.png,assets\pokemones pixelados\Snivy_pixeleado.png
+5,Servine,Servine,Lianaja,Servine,Efoserp,assets\pokemones\Servine.png,assets\pokemones sombreados\Servine_sombreado.png,assets\pokemones pixelados\Servine_pixeleado.png
+5,Serperior,Serperior,Majaspic,Serperior,Serpiroyal,assets\pokemones\Serperior.png,assets\pokemones sombreados\Serperior_sombreado.png,assets\pokemones pixelados\Serperior_pixeleado.png
+5,Tepig,Tepig,Gruikui,Tepig,Ferkokel,assets\pokemones\Tepig.png,assets\pokemones sombreados\Tepig_sombreado.png,assets\pokemones pixelados\Tepig_pixeleado.png
+5,Pignite,Pignite,Grotichon,Pignite,Ferkokel,assets\pokemones\Pignite.png,assets\pokemones sombreados\Pignite_sombreado.png,assets\pokemones pixelados\Pignite_pixeleado.png
+5,Emboar,Emboar,Roitiflam,Emboar,Flambirex,assets\pokemones\Emboar.png,assets\pokemones sombreados\Emboar_sombreado.png,assets\pokemones pixelados\Emboar_pixeleado.png
+5,Oshawott,Oshawott,Moustillon,Oshawott,Ottaro,assets\pokemones\Oshawott.png,assets\pokemones sombreados\Oshawott_sombreado.png,assets\pokemones pixelados\Oshawott_pixeleado.png
+5,Dewott,Dewott,Mateloutre,Dewott,Zwottronin,assets\pokemones\Dewott.png,assets\pokemones sombreados\Dewott_sombreado.png,assets\pokemones pixelados\Dewott_pixeleado.png
+5,Samurott,Samurott,Clamiral,Samurott,Admurai,assets\pokemones\Samurott.png,assets\pokemones sombreados\Samurott_sombreado.png,assets\pokemones pixelados\Samurott_pixeleado.png
+6,Chespin,Chespin,Marisson,Chespin,Igamaro,assets\pokemones\Chespin.png,assets\pokemones sombreados\Chespin_sombreado.png,assets\pokemones pixelados\Chespin_pixeleado.png
+6,Quilladin,Quilladin,Boguérisse,Quilladin,Igastarnish,assets\pokemones\Quilladin.png,assets\pokemones sombreados\Quilladin_sombreado.png,assets\pokemones pixelados\Quilladin_pixeleado.png
+6,Chesnaught,Chesnaught,Blindépique,Chesnaught,Brigaron,assets\pokemones\Chesnaught.png,assets\pokemones sombreados\Chesnaught_sombreado.png,assets\pokemones pixelados\Chesnaught_pixeleado.png
+6,Fennekin,Fennekin,Feunnec,Fennekin,Fynx,assets\pokemones\Fennekin.png,assets\pokemones sombreados\Fennekin_sombreado.png,assets\pokemones pixelados\Fennekin_pixeleado.png
+6,Braixen,Braixen,Roussil,Braixen,Rutena,assets\pokemones\Braixen.png,assets\pokemones sombreados\Braixen_sombreado.png,assets\pokemones pixelados\Braixen_pixeleado.png
+6,Delphox,Delphox,Goupelin,Delphox,Fennexis,assets\pokemones\Delphox.png,assets\pokemones sombreados\Delphox_sombreado.png,assets\pokemones pixelados\Delphox_pixeleado.png
+6,Froakie,Froakie,Grenousse,Froakie,Froxy,assets\pokemones\Froakie.png,assets\pokemones sombreados\Froakie_sombreado.png,assets\pokemones pixelados\Froakie_pixeleado.png
+6,Frogadier,Frogadier,Croâporal,Frogadier,Amphizel,assets\pokemones\Frogadier.png,assets\pokemones sombreados\Frogadier_sombreado.png,assets\pokemones pixelados\Frogadier_pixeleado.png
+6,Greninja,Greninja,Amphinobi,Greninja,Quajutsu,assets\pokemones\Greninja.png.png,assets\pokemones sombreados\Greninja_sombreado.png,assets\pokemones pixelados\Greninja_pixeleado.png
+6,Bunnelby,Bunnelby,Sapereau,Bunnelby,Scoppel,assets\pokemones\Bunnelby.png,assets\pokemones sombreados\Bunnelby_sombreado.png,assets\pokemones pixelados\Bunnelby_pixeleado.png
+7,Rowlet,Rowlet,Brindibou,Rowlet,Bauz,assets\pokemones\Rowlet.png,assets\pokemones sombreados\Rowlet_sombreado.png,assets\pokemones pixelados\Rowlet_pixeleado.png
+7,Dartrix,Dartrix,Efflèche,Dartrix,Arboretoss,assets\pokemones\Dartrix.png,assets\pokemones sombreados\Dartrix_sombreado.png,assets\pokemones pixelados\Dartrix_pixeleado.png
+7,Decidueye,Decidueye,Archéduc,Decidueye,Silvarro,assets\pokemones\Decidueye.png,assets\pokemones sombreados\Decidueye_sombreado.png,assets\pokemones pixelados\Decidueye_pixeleado.png
+7,Litten,Litten,Flamiaou,Litten,Flamiau,assets\pokemones\Litten.png,assets\pokemones sombreados\Litten_sombreado.png,assets\pokemones pixelados\Litten_pixeleado.png
+7,Torracat,Torracat,Matoufeu,Torracat,Miezunder,assets\pokemones\Torracat.png,assets\pokemones sombreados\Torracat_sombreado.png,assets\pokemones pixelados\Torracat_pixeleado.png
+7,Incineroar,Incineroar,Félinferno,Incineroar,Fuegro,assets\pokemones\Incineroar.png,assets\pokemones sombreados\Incineroar_sombreado.png,assets\pokemones pixelados\Incineroar_pixeleado.png
+7,Popplio,Popplio,Otaquin,Popplio,Robball,assets\pokemones\Popplio.png,assets\pokemones sombreados\Popplio_sombreado.png,assets\pokemones pixelados\Popplio_pixeleado.png
+7,Brionne,Brionne,Otareine,Brionne,Marikeck,assets\pokemones\Brionne.png,assets\pokemones sombreados\Brionne_sombreado.png,assets\pokemones pixelados\Brionne_pixeleado.png
+7,Primarina,Primarina,Oratoria,Primarina,Primarene,assets\pokemones\Primarina.png,assets\pokemones sombreados\Primarina_sombreado.png,assets\pokemones pixelados\Primarina_pixeleado.png
+7,Pikipek,Pikipek,Picassaut,Pikipek,Pepeck,assets\pokemones\Pikipek.png,assets\pokemones sombreados\Pikipek_sombreado.png,assets\pokemones pixelados\Pikipek_pixeleado.png
+8,Grookey,Grookey,Ouistempo,Grookey,Chimpep,assets\pokemones\Grookey.png,assets\pokemones sombreados\Grookey_sombreado.png,assets\pokemones pixelados\Grookey_pixeleado.png
+8,Thwackey,Thwackey,Badabouin,Thwackey,Chimstix,assets\pokemones\Thwackey.png,assets\pokemones sombreados\Thwackey_sombreado.png,assets\pokemones pixelados\Thawackey_pixeleado.png
+8,Rillaboom,Rillaboom,Gorythmic,Rillaboom,Gortrom,assets\pokemones\Rillaboom.png,assets\pokemones sombreados\Rillaboom_sombreado.png,assets\pokemones pixelados\Rillaboom_pixeleado.png
+8,Scorbunny,Scorbunny,Flambino,Scorbunny,Hoppel,assets\pokemones\Scorbunny.png,assets\pokemones sombreados\Scorbunny_sombreado.png,assets\pokemones pixelados\Scorbunny_pixeleado.png
+8,Raboot,Raboot,Lapyro,Raboot,Kickerlo,assets\pokemones\Raboot.png,assets\pokemones sombreados\Raboot_sombreado.png,assets\pokemones pixelados\Raboot_pixeleado.png
+8,Cinderace,Cinderace,Pyrobut,Cinderace,Liberlo,assets\pokemones\Cinderace.png,assets\pokemones sombreados\Cinderace_sombreado.png,assets\pokemones pixelados\Cinderace_pixeleado.png
+8,Sobble,Sobble,Larméléon,Sobble,Memmion,assets\pokemones\Sobble.png,assets\pokemones sombreados\Sobble_sombreado.png,assets\pokemones pixelados\Sobble_pixeleado.png
+8,Drizzile,Drizzile,Arrozard,Drizzile,Phlegleon,assets\pokemones\Drizzile.png,assets\pokemones sombreados\Drizzile_sombreado.png,assets\pokemones pixelados\Drizzile_pixeleado.png
+8,Inteleon,Inteleon,Lézargus,Inteleon,Intelleon,assets\pokemones\Inteleon.png,assets\pokemones sombreados\Inteleon_sombreado.png,assets\pokemones pixelados\Inteleon_pixeleado.png
+8,Skwovet,Skwovet,Rongourmand,Skwovet,Raffel,assets\pokemones\Skwovet.png,assets\pokemones sombreados\Skwovet_sombreado.png,assets\pokemones pixelados\Skwovet_pixeleado.png
+9,Sprigatito,Sprigatito,Poussacha,Sprigatito,Felori,assets\pokemones\Sprigatito.png,assets\pokemones sombreados\Sprigatito_sombreado.png,assets\pokemones pixelados\Sprigatito_pixeleado.png
+9,Floragato,Floragato,Matourgeon,Floragato,Feliospa,assets\pokemones\Floragato.png,assets\pokemones sombreados\Floragato_sombreado.png,assets\pokemones pixelados\Floragato_pixeleado.png
+9,Meowscarada,Meowscarada,Miascarade,Meowscarada,Maskagato,assets\pokemones\Meowscarada.png,assets\pokemones sombreados\Meowscarada_sombreado.png,assets\pokemones pixelados\Meowscarada_pixeleado.png
+9,Fuecoco,Fuecoco,Chochodile,Fuecoco,Krokel,assets\pokemones\Fuecoco.png,assets\pokemones sombreados\Fuecoco_sombreado.png,assets\pokemones pixelados\Fuecoco_pixeleado.png
+9,Crocalor,Crocalor,Crocogril,Crocalor,Lokroko,assets\pokemones\Crocalor.png,assets\pokemones sombreados\Crocalor_sombreado.png,assets\pokemones pixelados\Crocalor_pixeleado.png
+9,Skeledirge,Skeledirge,Flâmigator,Skeledirge,Skelokrok,assets\pokemones\Skeledirge.png,assets\pokemones sombreados\Skeledirge_sombreado.png,assets\pokemones pixelados\Skeledirge_pixeleado.png
+9,Quaxly,Quaxly,Coiffeton,Quaxly,Kwaks,assets\pokemones\Quaxly.png,assets\pokemones sombreados\Quaquaval_sombreado.png,assets\pokemones pixelados\Quaxly_pixeleado.png
+9,Quaxwell,Quaxwell,Canarbello,Quaxwell,Fuentente,assets\pokemones\Quaxwell.png,assets\pokemones sombreados\Quaxwell_sombreado.png,assets\pokemones pixelados\Quaxwell_pixeleado.png
+9,Quaquaval,Quaquaval,Palmaval,Quaquaval,Bailonda,assets\pokemones\Quaquaval.png,assets\pokemones sombreados\Quaquaval_sombreado.png,assets\pokemones pixelados\Quaquaval_pixeleado.png
+9,Lechonk,Lechonk,Gourmelet,Lechonk,Ferkuli,assets\pokemones\Lechonk.png,assets\pokemones sombreados\Lechonk_sombreado.png,assets\pokemones pixelados\Lechonk_pixeleado.png
