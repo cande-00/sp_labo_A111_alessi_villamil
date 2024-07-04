@@ -37,10 +37,10 @@ while bandera:
                                 generaciones_seleccionadas.remove(gen)
                             else:
                                 generaciones_seleccionadas.add(gen)
-                            filtered_pokemons = get_pokemons_by_generation(generaciones_seleccionadas)
-                            if filtered_pokemons:
-                                pokemon_index = random.randint(0, len(filtered_pokemons) - 1)
-                                pokemon_actual = filtered_pokemons[pokemon_index]
+                            pokemones_filtrados = get_pokemons_by_generation(generaciones_seleccionadas)
+                            if pokemones_filtrados:
+                                pokemon_index = random.randint(0, len(pokemones_filtrados) - 1)
+                                pokemon_actual = pokemones_filtrados[pokemon_index]
                 if generation_clicked:
                     pass
                 else:
@@ -54,9 +54,13 @@ while bandera:
                             break
                 #maneja el clic en el botón "mostrar nombre"
                 if boton_mostrar_nombre.collidepoint(evento.pos):  
-                    mensaje = f"¡{pokemon_actual['nombre']}!"
-                    pokemon_index = random.randint(0, len(filtered_pokemons) - 1)
-                    pokemon_actual = filtered_pokemons[pokemon_index]
+                    mensaje = f"¡El pokemon era {pokemon_actual['nombre']}!"
+                    nombre_ingles = pokemon_actual["nombre_ingles"]
+                    nombre_frances = pokemon_actual["nombre_frances"]
+                    nombre_italiano = pokemon_actual["nombre_italiano"]
+                    nombre_aleman = pokemon_actual["nombre_aleman"]
+                    pokemon_index = random.randint(0, len(pokemones_filtrados) - 1)
+                    pokemon_actual = pokemones_filtrados[pokemon_index]
                     pygame.time.wait(500)
                     if racha > global_mejor_racha:
                         global_mejor_racha = racha
@@ -66,10 +70,10 @@ while bandera:
                     if preguntas_realizadas == num_questions:
                         jugando = False
                     else:
-                        filtered_pokemons = get_pokemons_by_generation(generaciones_seleccionadas)
-                        if filtered_pokemons:
-                            pokemon_index = random.randint(0, len(filtered_pokemons) - 1)
-                            pokemon_actual = filtered_pokemons[pokemon_index]
+                        pokemones_filtrados = get_pokemons_by_generation(generaciones_seleccionadas)
+                        if pokemones_filtrados:
+                            pokemon_index = random.randint(0, len(pokemones_filtrados) - 1)
+                            pokemon_actual = pokemones_filtrados[pokemon_index]
                         tiempo_entrada = pygame.time.get_ticks()
 
             if evento.type == pygame.KEYDOWN:
@@ -106,10 +110,10 @@ while bandera:
                         if preguntas_realizadas == num_questions:
                             jugando = False
                         else:
-                            filtered_pokemons = get_pokemons_by_generation(generaciones_seleccionadas)
-                            if filtered_pokemons:
-                                pokemon_index = random.randint(0, len(filtered_pokemons) - 1)
-                                pokemon_actual = filtered_pokemons[pokemon_index]
+                            pokemones_filtrados = get_pokemons_by_generation(generaciones_seleccionadas)
+                            if pokemones_filtrados:
+                                pokemon_index = random.randint(0, len(pokemones_filtrados) - 1)
+                                pokemon_actual = pokemones_filtrados[pokemon_index]
                             tiempo_entrada = pygame.time.get_ticks()
                             user_input = ""
                     else:
