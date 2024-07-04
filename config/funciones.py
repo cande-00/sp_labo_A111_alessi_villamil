@@ -3,13 +3,6 @@ from config.colores import *
 
 pygame.init()
 
-global respuesta_correcta
-global mejor_tiempo_transcurrido
-global tiempo_total
-global tiempo_preguntado
-global global_mejor_racha
-
-
 button_width = 60
 button_height = 30
 spacing = 5
@@ -224,8 +217,7 @@ def save_global_best_streak(racha, filename="mejor_racha.txt", folder="data"):
     with open(filename, "w") as file:
         file.write(str(racha))
 
-def mostrar_resultados():
-    global respuesta_correcta, mejor_tiempo_transcurrido, tiempo_total, tiempo_preguntado, global_mejor_racha
+def mostrar_resultados(respuesta_correcta:int, mejor_tiempo_transcurrido:int, tiempo_total:int, global_mejor_racha:int):
     #Descripción:
     #muestra los resultados de la partida cuando finaliza y muestra un botón para "volver a jugar".
     #Retorno:

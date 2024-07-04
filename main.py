@@ -154,7 +154,7 @@ while bandera:
         
         pygame.display.update()
     else:
-        jugar_nuevamente_btn = mostrar_resultados()
+        jugar_nuevamente_btn = mostrar_resultados(respuesta_correcta, mejor_tiempo_transcurrido, tiempo_total, global_mejor_racha)
         for evento in pygame.event.get():
             if evento.type == pygame.QUIT:
                 bandera = False
