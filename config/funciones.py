@@ -26,7 +26,6 @@ mensaje = ""
 user_rect = pygame.Rect(200, 520, 140, 32)
 input_bool = False
 
-tiempo_aux = 1
 tiempo_entrada = pygame.time.get_ticks()
 mejor_tiempo_transcurrido = float('inf')
 tiempo_total = 0
@@ -79,7 +78,7 @@ with open("data/pokemon_multilingual_gen1.csv", "r") as pokemons:
                 pokemon[keys_dict[j]] = lista_datos[j]
             lista_pokemons.append(pokemon)
 
-#se crean los dicts para ser usados 
+#se crean las listas para ser usados 
 generacion_1 = []
 generacion_2 = []
 generacion_3 = []
